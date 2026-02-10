@@ -302,9 +302,6 @@ ModuleNotFoundError
 Radhika Yadav
 GitHub: https://github.com/Radhikaydv-git
 
-Yuvraj Kushwah
-GitHub: https://github.com/Yuvraj9685
-
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub and share feedback!
